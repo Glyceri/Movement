@@ -9,6 +9,12 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Aa]ssets/Animations/
+/[Aa]ssets/art/
+/[Aa]ssets/Blink/
+/[Aa]ssets/Models/
+/[Aa]ssets/Prefabs/
+/[Aa]ssets/Scenes/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta

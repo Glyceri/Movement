@@ -1,5 +1,9 @@
 # Movement
 
+#Video
+
+https://www.youtube.com/watch?v=hqfhNVeS_VA
+
 # My Goal
 I had two interconnecting learning goals for this term. 
 

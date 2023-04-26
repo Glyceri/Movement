@@ -1,6 +1,6 @@
 # Movement
 
-#Video
+# Video
 [![Movement Video](https://github.com/Glyceri/Movement/blob/main/Walking.png)](https://www.youtube.com/watch?v=hqfhNVeS_VA "Walking")
 
 # My Goal

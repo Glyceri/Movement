@@ -1,8 +1,7 @@
 # Movement
 
 #Video
-
-https://www.youtube.com/watch?v=hqfhNVeS_VA
+[![Movement Video](https://github.com/Glyceri/Movement/blob/main/Walking.png)](https://www.youtube.com/watch?v=hqfhNVeS_VA "Walking")
 
 # My Goal
 I had two interconnecting learning goals for this term. 
